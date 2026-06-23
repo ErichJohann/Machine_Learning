@@ -1,2 +1,2 @@
 # Machine_Learning
-My machine learning class exercises
+My machine learning class projects
